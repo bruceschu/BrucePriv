@@ -21,5 +21,6 @@ public class Main {
  	    System.out.println("gnguser resolve A");
  	    System.out.println("bruceschu gnguser merge B");
  	    System.out.println("bruceschu gnguser merge C");
+ 	    System.out.println("bruceschu merge D");
  	    }
 }
