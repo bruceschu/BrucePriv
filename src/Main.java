@@ -21,6 +21,7 @@ public class Main {
  	    System.out.println("gnguser resolve A");
  	    System.out.println("bruceschu gnguser merge B");
  	    System.out.println("gnguser merge C");
- 	    System.out.println("gnguser merge D");
+ 	    System.out.println("bruceschu gnguser merge C");
+ 	    System.out.println("bruceschu gnguser epic reconcile merge D");
  	    }
 }
