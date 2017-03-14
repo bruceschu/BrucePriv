@@ -18,6 +18,6 @@ public class Main {
 	    System.out.println("brucescu added C");
 	    System.out.println("brucescu added D");
  	    System.out.println("brucescu added E");
- 	    System.out.println("gnguser merge A");
+ 	    System.out.println("gnguser resolve A");
    }
 }
