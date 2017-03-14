@@ -28,6 +28,6 @@ public class Main {
  	    System.out.println("bruceschu gnguser merge G");
  	    System.out.println("gnguser bruceschu merge H");
  	    System.out.println("bruceschu gnguser merge I & J");
- 	    System.out.println("bruceschu merge K");
+ 	    System.out.println("gnguser bruceschu merge K");
  	    }
 }
