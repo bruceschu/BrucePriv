@@ -25,6 +25,6 @@ public class Main {
  	    System.out.println("bruceschu gnguser epic reconcile merge D");
  	    System.out.println("gnguser bruceschu merge E");
  	    System.out.println("bruceschu gnguser merge F");
- 	    System.out.println("gnguser merge G");
+ 	    System.out.println("bruceschu gnguser merge G");
  	    }
 }
