@@ -8,5 +8,6 @@ public class Main {
 	    System.out.println("gnguser 3");
 	    System.out.println("gnguser 4");
 	    System.out.println("gnguser 5");
+	    System.out.println("brucescu added A");
     }
 }
