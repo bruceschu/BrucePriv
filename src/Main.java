@@ -10,6 +10,7 @@ public class Main {
 	    System.out.println("gnguser insert B");
 	    System.out.println("gnguser insert C");
 	    System.out.println("gnguser insert D");
+	    System.out.println("gnguser insert E");
 	    System.out.println("gnguser 4");
 	    System.out.println("gnguser 5");
 	    System.out.println("brucescu added A");
